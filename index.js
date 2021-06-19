@@ -44,7 +44,7 @@ function server() {
             }
         }
     });
-    serverApollo.listen({port:process.env.PORT || 4000}).then(response => {
+    serverApollo.listen({port:process.env.port || 4000}).then(response => {
         console.log("Server running...\n"+response.url);
     });
 }
