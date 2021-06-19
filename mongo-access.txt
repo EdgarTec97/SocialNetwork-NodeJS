@@ -1,0 +1,1 @@
+mongodb+srv://instaclone-admin:instaclone123@cluster0.inrdd.mongodb.net/instaclone?retryWrites=true&w=majority
