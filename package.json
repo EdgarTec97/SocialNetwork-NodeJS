@@ -6,7 +6,6 @@
   "author": "Edgar Vega",
   "license": "MIT",
   "scripts": {
-    "prestart": "npm install",
     "dev": "nodemon index.js",
     "start": "node ./index.js"
   },
